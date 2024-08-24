@@ -1,0 +1,5 @@
+title BOT
+python -m pip install -r requirements.txt
+
+py main.py
+pause
